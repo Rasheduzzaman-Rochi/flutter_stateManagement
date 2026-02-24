@@ -31,5 +31,3 @@ The goal of this repository is to understand and compare various state managemen
 - Cart Example
 
 ---
-
-## 📁 Folder Structure
